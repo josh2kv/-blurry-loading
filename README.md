@@ -7,7 +7,7 @@
 ## 2. 사용기술
 - HTML
 - CSS
-- javascript
+- JavaScript
 
 ## 3. 학습후기
 - 없음
